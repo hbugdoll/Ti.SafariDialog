@@ -1,5 +1,8 @@
 # Ti.SafariDialog
 
+> [!NOTE]  
+> This module is outdated. Please use https://github.com/tidev/titanium-web-dialog instead.
+
 ## Description
 
 The SafariDialog module provides Titanium access to the native SFSafariViewController. This enables you to 
